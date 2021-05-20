@@ -1,0 +1,14 @@
+:root{
+  --color-secundario:#6290c3;
+}
+
+.contenido{
+  background-color: var(--color-secundario);
+  border-radius: 5%;
+}
+
+img{
+  border-radius: 100%;
+  height: 150px;
+  width: 150px;
+}
