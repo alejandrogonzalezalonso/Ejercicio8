@@ -1,5 +1,7 @@
-:root{
-  --color-secundario:#6290c3;
+:root {
+  --colorfondo: #c2e7da;
+  --color-cards: #6290c3;
+  --color-iniciales: #660000;
 }
 
 .contenido{
